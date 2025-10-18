@@ -6,7 +6,7 @@ Linkin park is the greatest band ever
 
 ## My Game
 [Beatz-X](https://github.com/GuayabR/Beatz-X)  
-  *FEEL. SENSE. SEE. THE RHYTHM.* (Made with Godot 4, GDScript)  
+  *FEEL. SENSE. SEE. THE RHYTHM.* (Made with Godot 4)  
   [DOWNLOAD NOW](https://beatzx.com)
 
 ## My Website
