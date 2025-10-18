@@ -1,16 +1,24 @@
-## Hi there 👋
+# I'm GuayabR!
 
-<!--
-**GuayabR/GuayabR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Rhythm games are the greatest thing ever made
 
-Here are some ideas to get you started:
+Linkin park is the greatest band ever
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Game
+[Beatz-X](https://github.com/GuayabR/Beatz-X)  
+  *FEEL. SENSE. SEE. THE RHYTHM.* (Made with Godot 4, GDScript)  
+  [DOWNLOAD NOW](https://beatzx.com)
+
+## My Website
+[guayabr.com](https://guayabr.com)
+([Repo](https://github.com/GuayabR/Site))  
+  *Remembering through photography.*
+
+## Where I Am
+- [Twitter](https://twitter.com/GuayabR)
+- [Instagram](https://instagram.com/imguayabr)
+- [YouTube](https://youtube.com/@GuayabR)
+
+---
+
+> AS^ | AA AM am AR aa AS aE AL AT AF
